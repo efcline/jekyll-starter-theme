@@ -8,7 +8,9 @@ title:  Hello there
 # h1
 
 
-_Add your text here_
+_Is it working I wonder_
+
+We love chocolate
 
 
 What's Markdown (`.md`)?

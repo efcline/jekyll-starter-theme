@@ -5,6 +5,7 @@
 
 body {
   font-family: Helvetica,Arial,sans-serif;
+  color:blue;
 }
 
 a, a:visited {
@@ -16,8 +17,18 @@ a:hover {
   text-decoration: underline;
 }
 
+li {
+  color:purple;
+  
+}
 
+p {
+  margin-left: 12px;
+}
 
+.big{
+  color:yellow;
+}
 
 #header {
   padding: 4px;
